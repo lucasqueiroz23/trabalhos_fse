@@ -1,0 +1,21 @@
+{
+    "numero_infracoes": 0,
+    "infracoes_velocidade": 0,
+    "infracoes_vermelho": 0,
+    "passagem_carros": {
+        "cruzamento1":{
+            "principal1": 0,
+            "principal2": 0,
+            "auxiliar1": 0,
+            "auxiliar2": 0,
+            "total": 0
+        },
+        "cruzamento2":{
+            "principal1": 0,
+            "principal2": 0,
+            "auxiliar1": 0,
+            "auxiliar2": 0,
+            "total": 0
+        }
+    }
+}
